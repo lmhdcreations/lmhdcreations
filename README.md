@@ -43,9 +43,9 @@
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonprofil&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lmhdcreations&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tonprofil&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lmhdcreations&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---

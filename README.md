@@ -1,6 +1,6 @@
 <!-- 👋 Présentation rapide -->
-<h1 align="center">Salut, moi c’est Youssef 👨‍💻</h1>
-<h3 align="center">Développeur Full-Stack & Web Designer | Fondateur de LMHD Creations</h3>
+<h1 align="center">Hi, I’m Youssef 👨‍💻</h1>
+<h3 align="center">Full-Stack Developer & Web Designer | Founder of LMHD Creations</h3>
 
 <p align="center">
   <a href="https://lmhdcreations.fr" target="_blank">
@@ -16,16 +16,29 @@
 
 ---
 
-### 👨‍💼 À propos de moi
+### 👨‍💼 About Me (EN)
 
-🔵 Développeur **Full-Stack** passionné, j’aide les entreprises, indépendants et créatifs à donner vie à leurs projets web avec des solutions sur-mesure.  
-🎨 Je combine **technologie** et **design** pour créer des expériences utilisateur modernes, performantes et accessibles.
+I am a passionate **Full-Stack Developer** and **Creative Web Designer** dedicated to helping businesses, freelancers, and creatives bring their digital projects to life. With a strong focus on performance, usability, and modern design principles, I deliver custom web solutions tailored to the specific needs of each client.
 
-🌍 I’m a French full-stack developer & creative web designer. I help businesses and entrepreneurs turn ideas into performant, user-focused web applications.
+I work mainly with technologies such as PHP, Laravel, MERN stack (MongoDB, Express, React, Node.js), TypeScript, HTML, CSS, and design tools like Figma and Git for version control.
+
+As the founder of LMHD Creations, I strive to combine clean code and clear design to create effective, scalable, and user-friendly websites and applications that help clients stand out and grow their business.
 
 ---
 
-### 🧰 Stack principale & outils
+### 👨‍💼 À propos de moi (FR)
+
+Je suis un **développeur full-stack** passionné et **designer web créatif**. J’aide les entreprises, les indépendants et les créateurs à concrétiser leurs projets digitaux grâce à des solutions web personnalisées.
+
+Mon approche se concentre sur la performance, l’ergonomie et un design moderne, en adaptant chaque projet aux besoins uniques de mes clients.
+
+Je maîtrise des technologies telles que PHP, Laravel, le stack MERN (MongoDB, Express, React, Node.js), TypeScript, HTML, CSS ainsi que des outils de design comme Figma et Git pour la gestion de versions.
+
+Fondateur de LMHD Creations, mon objectif est de combiner un code propre et un design clair pour créer des sites et applications efficaces, évolutifs et conviviaux, permettant à mes clients de se démarquer et de développer leur activité.
+
+---
+
+### 🧰 Main Stack & Tools / Stack principale & outils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,laravel,react,nodejs,express,mongodb,figma,git,github" />
@@ -33,28 +46,29 @@
 
 ---
 
-### 🚀 Projets récents
+### 🚀 Recent Projects / Projets récents
 
-🔗 Site vitrine : [lmhdcreations.fr](https://lmhdcreations.fr)  
-📁 Dépôts GitHub : [Voir mes projets](https://github.com/lmhdcreations?tab=repositories)
+🔗 Showcase website: [lmhdcreations.fr](https://lmhdcreations.fr)  
+📁 GitHub repos: [See my projects](https://github.com/tonprofil?tab=repositories)
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats / Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmhdcreations&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonprofil&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lmhdcreations&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tonprofil&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### 🤝 Travaillons ensemble
+### 🤝 Let’s Work Together / Travaillons ensemble
 
-📧 Contact pro : youssef@lmhdcreations.fr  
-💼 LinkedIn : [LMHD Creations](https://www.linkedin.com/company/lmhdcreations)
+📧 Contact: youssef@lmhdcreations.fr  
+💼 LinkedIn: [LMHD Creations](https://www.linkedin.com/company/lmhdcreations)
 
 ---
 
-> 🧠 *“Créer du code propre, du design clair, et des solutions qui durent.”*
+> 🧠 *“Clean code, clear design, solutions that last.”*  
+> « Du code propre, un design clair, des solutions durables. »
